@@ -1,13 +1,14 @@
 # Jura S8 Recipes
 My personal collection of coffee recipes modified for a Jura espresso machine - specifically the Jura S8
 --
-![Jura S8](https://i.imgur.com/lEINlNn.png)
+<img src="https://i.imgur.com/lEINlNn.png" width="200"/>
 
 Notes:
 - New users may be confused on the milk dispensing system (using time vs volume).  Take note of the Cortado and Cortadito recipes.  They require “equal amounts of milk” to the coffee.  I brewed these drinks with a scale under the cup and stopped the milk function when the amount of needed grams of milk was reached.  For Whole Milk, 15 seconds is about 3 ounces, 12 seconds is about 2 ounces and 6 seconds is about 1 ounce.
 - My current grind setting: 3rd position from finest grind
 - Coffee Strength (aroma profile).  There are 5 bean icons, each with half steps, allowing for 10 levels of aroma profile (which just alters how much coffee is ground).  Referring to the image, if I say "Bean: .5", I mean there is a single half-icon of beans filled in.  Similarly, "Bean 3" would mean 3 full-bean icons are filled in.  Bean 5 would be the max setting.  I only bring this up because J.O.E uses a different strength setting, and I think some of the other Jura machines do too.
-![beans](https://i.imgur.com/H9DmIWh.png)
+<img src="https://i.imgur.com/H9DmIWh.png" width="200"/>
+                                                     
 - I'm opting to use 1oz volumes for espresso and 2oz for doppio.  I believe those are correct/traditional volumes, but coming from a Nespresso, I was used to shots that are 1.5 oz; and the Jura default is also 1.5 oz.
 - Milk times are with whole milk with the exception of the Cafe Latte which I use oat milk
 
