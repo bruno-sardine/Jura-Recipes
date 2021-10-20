@@ -12,6 +12,9 @@ Notes:
 - I'm opting to use 1oz volumes for espresso and 2oz for doppio.  I believe those are correct/traditional volumes, but coming from a Nespresso, I was used to shots that are 1.5 oz; and the Jura default is also 1.5 oz.
 - Milk times are with whole milk with the exception of the Cafe Latte which I use oat milk
 
+###### Interesting Info
+- Hot Water for Tea: 176 degrees
+
 ---
 ## **Espresso (1oz):**
 
