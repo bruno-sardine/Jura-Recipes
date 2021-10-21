@@ -17,9 +17,7 @@ Notes:
 - Hot Water for Tea: 176 degrees
 
 ###### What about J.O.E?
-- completely worthless?  no
-- buyer's remorse? a little
-- will I seriously use it?  probably.  more info to come
+- more info to come
 
 ---
 ## **Espresso (1oz):**
