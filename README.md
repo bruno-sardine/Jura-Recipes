@@ -12,9 +12,18 @@ Notes:
 - I'm opting to use 1oz volumes for espresso and 2oz for doppio.  I believe those are correct/traditional volumes, but coming from a Nespresso, I was used to shots that are 1.5 oz; and the Jura default is also 1.5 oz.
 - Milk times are with whole milk with the exception of the Cafe Latte which I use oat milk
 
+###### My Display
+
+|My Control Panel| | | |
+|--|--|--|--|
+| Espresso | Cafe Marron | My Latte | Small Hot Water |
+| Cappuccino Lite | Cortado | Macchiato | Water for Green Tea |
+
+Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristretto, Coffee, Latte Macchiato, Flat White
+
 ###### Interesting Info
 - 25g of water used to clean the coffee spout
-- Hot Water for Tea: 176 degrees
+- "Hot Water" and "Hot Water for Tea": 175 degrees.  I'm not sure why there are 2 product settings for this.
 
 ###### What about J.O.E?
 - more info to come
