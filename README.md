@@ -13,6 +13,7 @@ Notes:
 - Milk times are with whole milk with the exception of the Cafe Latte which I use oat milk
 
 ###### Interesting Info
+- 25g of water used to clean the coffee spout
 - Hot Water for Tea: 176 degrees
 
 ---
