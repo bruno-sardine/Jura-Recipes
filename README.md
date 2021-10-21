@@ -4,7 +4,7 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 <img src="https://i.imgur.com/lEINlNn.png" width="200"/>
 
 Notes:
-- New users may be confused on the milk dispensing system (using time vs volume).  Take note of the Cortado and Cortadito recipes.  They require “equal amounts of milk” to the coffee.  I brewed these drinks with a scale under the cup and stopped the milk function when the amount of needed grams of milk was reached.  For Whole Milk, 15 seconds is about 3 ounces, 12 seconds is about 2 ounces and 6 seconds is about 1 ounce.
+- New users may be confused on the milk dispensing system (using time vs volume).  Take note of the Cortado and Cortadito recipes.  They require “equal amounts of milk” to the coffee.  I brewed these drinks with a scale under the cup and stopped the milk function when the amount of needed grams of milk was reached.  For Whole Milk, 15 seconds is about 3 ounces, 12 seconds is about 2 ounces and 6 seconds is about 1 ounce.  "BUT ThAt'Z nOt HoW IT WorKZzzzzzz!!!!!  YOu'RE DoINg it WroNG ANd giVInG bAd AdviCE!!!". Listen - there's a reason "Hot Milk" and "Milk Foam" dispense large amounts by default.  I think you're supposed to brew your shot, add "Milk Foam", and just hit the CANCEL button when the amount of milk looks about right or tastes right.  If you paid attention, you realize "I cancelled the milk after about 5 seconds". Now you can SAVE your recipe with "5 seconds of milk".  It's really the same thing I did, except I had a scale under my milk.
 - My current grind setting: 3rd position from finest grind
 - Coffee Strength (aroma profile).  There are 5 bean icons, each with half steps, allowing for 10 levels of aroma profile (which just alters how much coffee is ground).  Referring to the image, if I say "Bean: .5", I mean there is a single half-icon of beans filled in.  Similarly, "Bean 3" would mean 3 full-bean icons are filled in.  Bean 5 would be the max setting.  I only bring this up because J.O.E uses a different strength setting, and I think some of the other Jura machines do too.
 <img src="https://i.imgur.com/H9DmIWh.png" width="200"/>
@@ -15,6 +15,11 @@ Notes:
 ###### Interesting Info
 - 25g of water used to clean the coffee spout
 - Hot Water for Tea: 176 degrees
+
+###### What about J.O.E?
+- completely worthless?  no
+- buyer's remorse? a little
+- will I seriously use it?  probably.  more info to come
 
 ---
 ## **Espresso (1oz):**
