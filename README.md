@@ -22,7 +22,7 @@ Notes:
 Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristretto, Coffee, Latte Macchiato, Flat White
 
 ###### Interesting Info
-- At finest grind setting + Bean 4, 1oz espresso extraction time is 9.2 seconds.  At grind setting 3, extraction was 7.6 seconds.  Bean 5 might make it go to 10 seconds.  Also note my 1oz size, NOT the default 1.5oz size which would certainly give you a 10-11 second extraction.  I'm cool with 9.2 seconds.
+- At finest grind setting + Bean 4, 1oz espresso extraction time is 9.2 seconds.  At grind setting 3, extraction was 7.6 seconds.  Bean 5 might make it go to 10 seconds.  Also note my 1oz size, NOT the default 1.5oz size which would certainly give you a 10-11 second extraction.  
 - 25g of water used to clean the coffee spout
 - "Hot Water" and "Hot Water for Tea": 175 degrees.  I'm not sure why there are 2 product settings for this.
 
