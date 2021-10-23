@@ -5,8 +5,8 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 
 Notes:
 - New users may be confused on the milk dispensing system (using time vs volume).  Take note of the Cortado and Cortadito recipes.  They require “equal amounts of milk” to the coffee.  I brewed these drinks with a scale under the cup and stopped the milk function when the amount of needed grams of milk was reached.  In general, for "Milk Foam", it's 6 secs (1oz), 11 sec (2oz), and 16 sec (3 oz).  "BUT ThAt'Z nOt HoW IT WorKZzzzzzz!!!!!  YOu'RE DoINg it WroNG ANd giVInG bAd AdviCE!!!". Listen - I think you're supposed to brew your shot, manually add "Milk Foam", and just hit the CANCEL button when the amount of milk looks about right or tastes right.  If you paid attention, you realize "I cancelled the milk after about 5 seconds". Now you can SAVE your recipe with "5 seconds of milk".  It's really the same thing I did, except I used a scale.
-- My current grind setting: 1st position (finest grind)
-- Coffee Strength (aroma profile).  There are 5 bean icons, each with half steps, allowing for 10 levels of aroma profile (which just alters how much coffee is ground).  Referring to the image, if I say "Bean: .5", I mean there is a single half-icon of beans filled in.  Similarly, "Bean 3" would mean 3 full-bean icons are filled in.  Bean 5 would be the max setting.  I only bring this up because J.O.E uses a different strength setting, and I think some of the other Jura machines do too.
+- My current grind setting: 2nd position (1 up from finest grind)
+- Coffee Strength (aroma profile).  There are 5 bean icons, each with half steps, allowing for 10 levels of aroma profile (which just alters how much coffee is ground).  Referring to the image, if I say "Coffee Strength: .5", I mean there is a single half-icon of beans filled in.  Similarly, "Coffee Strength 3" would mean 3 full-bean icons are filled in.  Coffee Strength 5 would be the max setting.  I only bring this up because J.O.E uses a different strength setting, and I think some of the other Jura machines do too.
 <img src="https://i.imgur.com/H9DmIWh.png" width="200"/>
                                                      
 - I'm opting to use 1oz volumes for espresso and 2oz for doppio.  I believe those are correct/traditional volumes, but coming from a Nespresso, I was used to shots that are 1.5 oz; and the Jura default is also 1.5 oz.
@@ -22,7 +22,14 @@ Notes:
 Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristretto, Coffee, Latte Macchiato, Flat White
 
 ###### Interesting Info
-- At finest grind setting + Bean 4, 1oz espresso extraction time is 9.2 seconds.  At grind setting 3, extraction was 7.6 seconds.  Bean 5 might make it go to 10 seconds.  Also note my 1oz size, NOT the default 1.5oz size which would certainly give you a 10-11 second extraction.  
+- Extraction times for 1oz of espresso.  I know there are a lot of other variables in my numbers, but I think you mostly want to shoot for a 9-11 second extraction time.  If I actually used 1.5oz and/or changed my bean setting to max (5), you could easily hit that sweet spot.  As mentioned before, I'm using the 2nd finest grind setting.  Tastes good to me!
+
+| Coffee Strength | Grind Setting | 1oz Extraction Time |
+|--|--|--|
+| 4 | 1 (finest) | 9.2 secs. |
+| 4 | 2 | 8.11 |
+| 4 | 3 | 7.6 secs. | 
+
 - 25g of water used to clean the coffee spout
 - "Hot Water" and "Hot Water for Tea": 175 degrees.  I'm not sure why there are 2 product settings for this.
 
@@ -33,7 +40,7 @@ Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristret
 ## **Espresso (1oz):**
 
 ```
-Bean: 4
+Coffee Strength: 4
 Volume: 1 oz
 ```
 
@@ -42,7 +49,7 @@ Volume: 1 oz
 I originally used the “Double Product” feature on an espresso.  While it yielded a 2oz drink, I was not sure what was happening in the background.  I expected grind, pour, grind, pour.  I think it just ground a little more coffee.  Also, my Doppio just wasted a space on the main screen.  If you really want a doppio, just do this for your recipes:
 
 ```
-Bean: 5 (max)
+Coffee Strength: 5 (max)
 Volume: 2 oz
 ```
 
@@ -58,7 +65,7 @@ Espresso
 This is the default recipe from the machine
 
 ```
-Bean: 4
+Coffee Strength: 4
 Volume: 3oz
 Milk: 22 Seconds
 Interval: 30 Seconds
@@ -83,7 +90,7 @@ In your serving glass/cup: Mix 1 tsp of espresso with the sugar and whip for 2-3
 2 shots of espresso (a doppio) with equal amount of steamed milk
 
 ```
-Bean 5
+Coffee Strength: 5
 Espresso (2oz)
 Steamed Milk (11 seconds)
 ```
@@ -93,7 +100,7 @@ Steamed Milk (11 seconds)
 A Venezuelan drink identical to the Cortado, but with a very slightly less amount of milk
 
 ```
-Bean 5
+Coffee Strength: 5
 Espresso (2oz)
 Steamed Milk (9 seconds)
 ```
@@ -114,7 +121,7 @@ Steamed Milk: 6 seconds
 This is the default recipe from the machine
 
 ```
-Bean: 4
+Coffee Strength: 4
 Volume: 2oz
 Steamed Milk: 14 Seconds
 ```
@@ -124,7 +131,7 @@ Steamed Milk: 14 Seconds
 This is the default recipe from the machine
 
 ```
-Bean: 2.5
+Coffee Strength: 2.5
 Steamed Milk: 14 Seconds
 Volume: 3oz
 ```
@@ -134,7 +141,7 @@ Volume: 3oz
 This is to my taste.  Lattes may typically have more milk with a 7oz minimum.  My Latte uses about 6 - 6.5 oz milk
 
 ```
-Bean:  5 (max)
+Coffee Strength:  5 (max)
 Steamed Oat Milk: 45 Seconds
 Volume: 1.5 oz
 ```
@@ -155,7 +162,7 @@ About 25% coffee, 75% milk
 
 ```
 Espresso
-Bean:  4
+Coffee Strength:  4
 Volume: 1 oz
 Steamed Milk: 16 secs (about 3 oz)
 ```
@@ -173,7 +180,7 @@ An espresso with whipped cream
 
 ```
 Espresso
-Bean: 5
+Coffee Strength: 5
 Volume 2oz
 Topped with Whipped Cream (3 oz)
 ```
@@ -185,7 +192,7 @@ Espresso brewed on top of vanilla ice cream
 ```
 Vanilla ice Cream (3 oz)
 Espresso
-Bean: 5
+Coffee Strength: 5
 Volume: 2 oz
 ```
 
@@ -204,7 +211,7 @@ Basically a cortado with chocolate syrup
 
 ```
 Espresso
-Bean: 5
+Coffee Strength: 5
 Volume: 2 oz
 Steamed Milk (11 seconds)
 Chocolate Syrup (2 oz)
@@ -214,7 +221,7 @@ Chocolate Syrup (2 oz)
 
 ```
 28g / 1 oz flavored syrup
-Bean: 1
+Coffee Strength: 1
 Steamed Milk: 14 Seconds
 Volume: 3oz
 ```
@@ -222,10 +229,10 @@ Volume: 3oz
 ###### Other Jura Machine Recipe Settings (not noted above)
   I wanted to keep track of the “original” recipes since I was updating some of them to create new drinks.
 ```
-Ristretto: Bean 4, volume .5oz
-Espresso: Bean 4, volume 1.5oz
+Ristretto: Coffee Strength 4, volume .5oz
+Espresso: Coffee Strength 4, volume 1.5oz
 Milk Foam: 10 seconds milk foam
-Macchiato: Bean 4, milk 5 sec., volume 1.5 oz
-Coffee: Bean 2.5, volume 5 oz, Grind size maximum
-Cafe au lait: Bean 5, Volume 3oz, milk 10 sec.
+Macchiato: Coffee Strength 4, milk 5 sec., volume 1.5 oz
+Coffee: Coffee Strength 2.5, volume 5 oz, Grind size maximum
+Cafe au lait: Coffee Strength 5, Volume 3oz, milk 10 sec.
 ```
