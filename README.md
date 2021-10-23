@@ -34,7 +34,9 @@ Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristret
 - "Hot Water" and "Hot Water for Tea": 175 degrees.  I'm not sure why there are 2 product settings for this.
 
 ###### What about J.O.E?
-- more info to come
+- There are 16 custom spots you can add recipes to in addition to the 12 normal presets (ristretto, flat white, hot water for green tea, etc)
+- There seems to be no syncing.  The Cortado on my main product screen does not appear in the J.O.E app.  I would need to recreate it in J.O.E.  This may not be bad because now you have 22 custom spots for recipes (8 on the machine, 16 in the app).  Configure your main 8 for the visual show-off to your guests, and J.O.E for some of the drinks no one would really ask for.
+- It's way easier to look at the Jura maintenance in J.O.E, than on the machine, by tapping "Cockpit" in the app.
 
 ---
 ## **Espresso (1oz):**
