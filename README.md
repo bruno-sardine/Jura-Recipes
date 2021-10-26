@@ -219,13 +219,24 @@ Steamed Milk (11 seconds)
 Chocolate Syrup (2 oz)
 ```
 
-## **Janet's Cappuccino**
+## **Cappuccino Lite**
 
 ```
 28g / 1 oz flavored syrup
 Coffee Strength: 1
 Steamed Milk: 14 Seconds
 Volume: 3oz
+```
+
+## **Honey Lavender Latte (Lite)**
+
+```
+.5 oz Vanilla Syrup
+.5 oz honey
+Coffee Strength: 1.5
+Volume: 2 oz
+Steamed Milk: 50 Seconds
+Dash of Scrappy's Lavender Bitters
 ```
 
 ###### Other Jura Machine Recipe Settings (not noted above)
