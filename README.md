@@ -140,7 +140,7 @@ Volume: 3oz
 
 ## **Cafe Latte (7oz)**
 ###### Notes:
-This is to my taste.  Lattes may typically have more milk with a 7oz minimum.  My Latte uses about 6 - 6.5 oz milk
+This is to my taste.  The correct latte ratio is 1:3; but coffee shops seems to use a 1:4 or 1:5 ratio.  This recipe is about 1:4 (1.5oz to 6oz). If I were to make a "normal latte", I would change to a 1:3 ratio (which would be 1.5oz espresso to around 22ish seconds milk).
 
 ```
 Coffee Strength:  5 (max)
