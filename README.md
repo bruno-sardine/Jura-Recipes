@@ -78,11 +78,11 @@ Volume: 1 oz
 
 ## **Doppio (3 oz):**
 ###### Notes:
-I originally used the “Double Product” feature on an espresso.  While it yielded a 2oz drink, I was not sure what was happening in the background.  I expected grind, pour, grind, pour.  I think it just ground a little more coffee.  Also, my Doppio just wasted a space on the main screen.  If you really want a doppio, just do this for your recipes:
+I originally used the “Double Product” feature on an espresso.  While it yielded a 3 oz drink, I was not sure what was happening in the background.  I expected grind, pour, grind, pour.  I think it just ground a little more coffee.  Also, my Doppio just wasted a space on the main screen.  If you really want a doppio, just do this for your recipes:
 
 ```
 Coffee Strength: 5 (max)
-Volume: 2 oz
+Volume: 3 oz
 ```
 
 ## **Americano (7 oz)**
