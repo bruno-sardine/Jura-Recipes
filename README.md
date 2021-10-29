@@ -9,9 +9,9 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
   * [What about J.O.E?](#what-about-joe)
   * [Iced Latte Recipes](https://github.com/bruno-sardine/iced-latte-recipes/blob/main/README.md)
   - Recipes
-    * [**Espresso (1oz):**](#espresso-1oz)
-    * [**Doppio (2 oz):**](#doppio-2-oz)
-    * [**Americano (6.5 oz)**](#americano-65-oz)
+    * [**Espresso (1.5 oz):**](#espresso-15-oz)
+    * [**Doppio (3 oz):**](#doppio-3-oz)
+    * [**Americano (7 oz)**](#americano-7-oz)
     * [**Latte Macchiato (7.5 oz)**](#latte-macchiato-75-oz)
     * [**Cafe Cubano (1oz)**](#cafe-cubano-1oz)
     * [**Cortado (4oz)**](#cortado-4oz)
@@ -25,7 +25,7 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
     * [**Espresso Macchiato (1 oz)**](#espresso-macchiato-1-oz)
     * [**Con Panna / Viennois (vee-IN-wah)**](#con-panna--viennois-vee-in-wah)
     * [**Affogato (5 oz)**](#affogato-5-oz)
-    * [**Lungo (3 oz)**](#lungo-3-oz)  
+    * [**Lungo (4 oz)**](#lungo-4-oz)  
     * [**Mocha (6 oz)**](#mocha-6-oz)   
     * [**Cappuccino Lite**](#cappuccino-lite)
     * [**Honey Lavender Latte (Lite)**](#honey-lavender-latte-lite)
@@ -39,7 +39,7 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 - Coffee Strength (aroma profile).  There are 5 bean icons, each with half steps, allowing for 10 levels of aroma profile (which just alters how much coffee is ground).  Referring to the image, if I say "Coffee Strength: .5", I mean there is a single half-icon of beans filled in.  Similarly, "Coffee Strength 3" would mean 3 full-bean icons are filled in.  Coffee Strength 5 would be the max setting.  I only bring this up because J.O.E uses a different strength setting, and I think some of the other Jura machines do too.
 <img src="https://i.imgur.com/H9DmIWh.png" width="200"/>
                                                      
-- I'm opting to use 1oz volumes for espresso and 2oz for doppio.  I believe those are correct/traditional volumes, but coming from a Nespresso, I was used to shots that are 1.5 oz; and the Jura default is also 1.5 oz.
+- I **was** opting to use 1oz volumes for espresso and 2oz for doppio.  I believe those are correct/traditional volumes. However, 1 oz espresso was just too bitter from the Jura.  My advice is to stick with the Jura default of 1.5 oz (especially if you're coming from a Nespresso which is the same).
 - Milk times are with whole milk with the exception of the Cafe Latte which I use oat milk
 
 ###### My Display
@@ -69,14 +69,14 @@ Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristret
 - It's way easier to look at the Jura maintenance in J.O.E, than on the machine, by tapping "Cockpit" in the app.
 
 ---
-## **Espresso (1oz):**
+## **Espresso (1.5 oz):**
 
 ```
 Coffee Strength: 4
 Volume: 1 oz
 ```
 
-## **Doppio (2 oz):**
+## **Doppio (3 oz):**
 ###### Notes:
 I originally used the “Double Product” feature on an espresso.  While it yielded a 2oz drink, I was not sure what was happening in the background.  I expected grind, pour, grind, pour.  I think it just ground a little more coffee.  Also, my Doppio just wasted a space on the main screen.  If you really want a doppio, just do this for your recipes:
 
@@ -85,7 +85,7 @@ Coffee Strength: 5 (max)
 Volume: 2 oz
 ```
 
-## **Americano (6.5 oz)**
+## **Americano (7 oz)**
 
 ```
 Espresso
@@ -123,7 +123,7 @@ In your serving glass/cup: Mix 1 tsp of espresso with the sugar and whip for 2-3
 
 ```
 Coffee Strength: 5
-Espresso (2oz)
+Espresso (2 oz)
 Steamed Milk (11 seconds)
 ```
 
@@ -133,7 +133,7 @@ A Venezuelan drink identical to the Cortado, but with a very slightly less amoun
 
 ```
 Coffee Strength: 5
-Espresso (2oz)
+Espresso (2 oz)
 Steamed Milk (9 seconds)
 ```
 
@@ -154,7 +154,7 @@ This is the default recipe from the machine
 
 ```
 Coffee Strength: 4
-Volume: 2oz
+Volume: 2 oz
 Steamed Milk: 14 Seconds
 ```
 
@@ -228,13 +228,13 @@ Coffee Strength: 5
 Volume: 2 oz
 ```
 
-## **Lungo (3 oz)**  
+## **Lungo (4 oz)**  
 ###### Notes:
-Less concentrated expresso.
+Less concentrated expresso.  Nespresso's is 3.75 oz.  With the Jura you can only choose 3.5 or 4 oz.  I opted for 4.
 
 ```
 Espresso 
-Volume (3 oz)
+Volume (4 oz)
 ```
 
 ## **Mocha (6 oz)**
