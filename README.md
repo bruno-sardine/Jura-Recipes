@@ -1,4 +1,4 @@
-# Jura S8 Recipes
+# Jura S8 Recipes and Information
 My personal collection of coffee recipes modified for a Jura espresso machine - specifically the Jura S8
 --
 <img src="https://i.imgur.com/lEINlNn.png" width="200"/>
@@ -39,7 +39,7 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 - Coffee Strength (aroma profile).  There are 5 bean icons, each with half steps, allowing for 10 levels of aroma profile (which just alters how much coffee is ground).  Referring to the image, if I say "Coffee Strength: .5", I mean there is a single half-icon of beans filled in.  Similarly, "Coffee Strength 3" would mean 3 full-bean icons are filled in.  Coffee Strength 5 would be the max setting.  I only bring this up because J.O.E uses a different strength setting, and I think some of the other Jura machines do too.
 <img src="https://i.imgur.com/H9DmIWh.png" width="200"/>
                                                      
-- I **was** opting to use 1oz volumes for espresso and 2oz for doppio.  I believe those are correct/traditional volumes. However, 1 oz espresso was just too bitter from the Jura.  My advice is to stick with the Jura default of 1.5 oz (especially if you're coming from a Nespresso which is the same).
+- I used to use 1oz volumes for espresso and 2oz for doppio.  I believe those are correct/traditional volumes. However, 1 oz espresso was just too bitter from the Jura.  My advice is to stick with the Jura default of 1.5 oz (especially if you're coming from a Nespresso which is the same).
 - Milk times are with whole milk with the exception of the Cafe Latte which I use oat milk
 
 ###### My Display
@@ -52,7 +52,7 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristretto, Coffee, Latte Macchiato, Flat White
 
 ###### Interesting Info
-- Extraction times for espresso.  I know there are a lot of other variables in my numbers, but I think you mostly want to shoot for a 9-12 second extraction time.  You would need to play around with it depending on your beans.  As mentioned before, I'm using the 2nd finest grind setting and 1.5oz.  Tastes good to me!
+- Extraction times for espresso.  I know there are a lot of other variables in my numbers, but I think you mostly want to shoot for a 9-12 second extraction time.  You would need to play around with it depending on your beans, grind setting, and Coffee Strength setting.  As mentioned before, I'm using the 2nd finest grind setting and 1.5oz volume.  Tastes good to me!
 
 | Coffee Strength | Grind Setting | 1oz Extraction Time | 1.5oz Extraction Time |
 |--|--|--|--|
@@ -69,6 +69,8 @@ Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristret
 - It's way easier to look at the Jura maintenance in J.O.E, than on the machine, by tapping "Cockpit" in the app.
 
 ---
+# Recipes
+
 ## **Espresso (1.5 oz):**
 
 ```
