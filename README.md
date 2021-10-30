@@ -52,13 +52,13 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristretto, Coffee, Latte Macchiato, Flat White
 
 ###### Interesting Info
-- Extraction times for 1oz of espresso.  I know there are a lot of other variables in my numbers, but I think you mostly want to shoot for a 9-11 second extraction time.  If I actually used 1.5oz and/or changed my bean setting to max (5), you could easily hit that sweet spot.  As mentioned before, I'm using the 2nd finest grind setting.  Tastes good to me!
+- Extraction times for espresso.  I know there are a lot of other variables in my numbers, but I think you mostly want to shoot for a 9-12 second extraction time.  You would need to play around with it depending on your beans.  As mentioned before, I'm using the 2nd finest grind setting and 1.5oz.  Tastes good to me!
 
-| Coffee Strength | Grind Setting | 1oz Extraction Time |
-|--|--|--|
-| 4 | 1 (finest) | 9.2 secs. |
-| 4 | 2 | 8.11 |
-| 4 | 3 | 7.6 secs. | 
+| Coffee Strength | Grind Setting | 1oz Extraction Time | 1.5oz Extraction Time |
+|--|--|--|--|
+| 4 | 1 (finest) | 9.2 secs. | n/a |
+| 4 | 2 | 8.11 | 12.07 secs |
+| 4 | 3 | 7.6 secs. | n/a |
 
 - 25g of water used to clean the coffee spout
 - "Hot Water" and "Hot Water for Tea": 175 degrees.  I'm not sure why there are 2 product settings for this.
