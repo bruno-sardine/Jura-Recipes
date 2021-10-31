@@ -19,7 +19,7 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
     * [**Cortadito (2oz)**](#cortadito-2oz)
     * [**Flat White**](#flat-white)
     * [**Cappuccino (5.x oz)**](#cappuccino-5x-oz)
-    * [**Cafe Latte (7oz)**](#cafe-latte-7oz)
+    * [**Café Latte (7oz)**](#café-latte-7oz)
     * [**Cafe con Leche (6 oz)**](#cafe-con-leche-6-oz) 
     * [**Cafe con Leche (Venezuelan version)**](#cafe-con-leche-venezuelan-version) 
     * [**Espresso Macchiato (1 oz)**](#espresso-macchiato-1-oz)
