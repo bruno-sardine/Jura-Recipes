@@ -170,7 +170,7 @@ Steamed Milk: 14 Seconds
 Volume: 3oz
 ```
 
-## **Cafe Latte (7oz)**
+## **Café Latte (7oz)**
 ###### Notes:
 This is to my taste.  The correct latte ratio is 1:3; but coffee shops seems to use a 1:4 or 1:5 ratio.  This recipe is about 1:4 (1.5oz to 6oz). If I were to make a "normal latte", I would change to a 1:3 ratio (which would be 1.5oz espresso to around 22ish seconds milk).
 
