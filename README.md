@@ -256,8 +256,8 @@ Chocolate Syrup (2 oz)
 ```
 28g / 1 oz flavored syrup
 Coffee Strength: 1
-Steamed Milk: 14 Seconds
-Volume: 3oz
+Steamed Milk: 15 Seconds
+Volume: 1.5 oz
 ```
 
 ## **Honey Lavender Latte (Lite)**
