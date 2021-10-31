@@ -13,15 +13,15 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
     * [**Doppio (3 oz):**](#doppio-3-oz)
     * [**Americano (7 oz)**](#americano-7-oz)
     * [**Latte Macchiato (7.5 oz)**](#latte-macchiato-75-oz)
-    * [**Cafe Cubano (1oz)**](#cafe-cubano-1oz)
+    * [**Café Cubano (1oz)**](#café-cubano-1oz)
     * [**Cortado (4oz)**](#cortado-4oz)
-    * [**Cafe Marron  (4oz)**](#cafe-marron--4oz)
+    * [**Café Marron  (4oz)**](#café-marron--4oz)
     * [**Cortadito (2oz)**](#cortadito-2oz)
     * [**Flat White**](#flat-white)
     * [**Cappuccino (5.x oz)**](#cappuccino-5x-oz)
     * [**Café Latte (7oz)**](#café-latte-7oz)
-    * [**Cafe con Leche (6 oz)**](#cafe-con-leche-6-oz) 
-    * [**Cafe con Leche (Venezuelan version)**](#cafe-con-leche-venezuelan-version) 
+    * [**Café con Leche (6 oz)**](#café-con-leche-6-oz) 
+    * [**Café con Leche (Venezuelan version)**](#café-con-leche-venezuelan-version) 
     * [**Espresso Macchiato (1 oz)**](#espresso-macchiato-1-oz)
     * [**Con Panna / Viennois (vee-IN-wah)**](#con-panna--viennois-vee-in-wah)
     * [**Affogato (5 oz)**](#affogato-5-oz)
@@ -40,13 +40,13 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 <img src="https://i.imgur.com/H9DmIWh.png" width="200"/>
                                                      
 - I used to use 1oz volumes for espresso and 2oz for doppio.  I believe those are correct/traditional volumes. However, 1 oz espresso was just too bitter from the Jura.  My advice is to stick with the Jura default of 1.5 oz (especially if you're coming from a Nespresso which is the same).
-- Milk times are with whole milk with the exception of the Cafe Latte which I use oat milk
+- Milk times are with whole milk with the exception of the Café Latte which I use oat milk
 
 ###### My Display
 
 |My Control Panel| | | |
 |--|--|--|--|
-| Espresso | Cafe Marron | My Latte | Small Hot Water |
+| Espresso | Café Marron | My Latte | Small Hot Water |
 | Cappuccino Lite | Cortado | Macchiato | Water for Green Tea |
 
 Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristretto, Coffee, Latte Macchiato, Flat White
@@ -105,7 +105,7 @@ Milk: 22 Seconds
 Interval: 30 Seconds
 ```
 
-## **Cafe Cubano (1oz)**
+## **Café Cubano (1oz)**
 ###### Notes:
 A sweet drink consisting of whipped sugar and strong espresso.  Whipped sugar rises to the top. 
 ###### Prep:
@@ -129,7 +129,7 @@ Espresso (2 oz)
 Steamed Milk (11 seconds)
 ```
 
-## **Cafe Marron  (4oz)**
+## **Café Marron  (4oz)**
 ###### Notes:
 A Venezuelan drink identical to the Cortado, but with a very slightly less amount of milk
 
@@ -180,7 +180,7 @@ Steamed Oat Milk: 45 Seconds
 Volume: 1.5 oz
 ```
 
-## **Cafe con Leche (6 oz)**
+## **Café con Leche (6 oz)**
 ###### Notes:
 2 tsp of sugar + 3oz coffee + equal parts milk.
 
@@ -190,7 +190,7 @@ Espresso (slide volume to 3 oz)
 Steamed Milk: 16 secs
 ```
 
-## **Cafe con Leche (Venezuelan version)**
+## **Café con Leche (Venezuelan version)**
 ###### Notes:
 About 25% coffee, 75% milk
 
