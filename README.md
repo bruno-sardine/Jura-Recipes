@@ -15,7 +15,7 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
     * [**Latte Macchiato (7.5 oz)**](#latte-macchiato-75-oz)
     * [**Café Cubano (1oz)**](#café-cubano-1oz)
     * [**Cortado (4oz)**](#cortado-4oz)
-    * [**Café Marron  (4oz)**](#café-marron--4oz)
+    * [**Café Marrón  (4oz)**](#café-marrón--4oz)
     * [**Cortadito (2oz)**](#cortadito-2oz)
     * [**Flat White**](#flat-white)
     * [**Cappuccino (5.x oz)**](#cappuccino-5x-oz)
@@ -129,7 +129,7 @@ Espresso (2 oz)
 Steamed Milk (11 seconds)
 ```
 
-## **Café Marron  (4oz)**
+## **Café Marrón  (4oz)**
 ###### Notes:
 A Venezuelan drink identical to the Cortado, but with a very slightly less amount of milk
 
