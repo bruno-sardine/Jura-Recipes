@@ -75,7 +75,7 @@ Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristret
 
 ```
 Coffee Strength: 4
-Volume: 1 oz
+Volume: 1.5 oz
 ```
 
 ## **Doppio (3 oz):**
