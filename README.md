@@ -66,7 +66,8 @@ Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristret
 
 ###### Operating Costs
 It's All in the Filters
-Sadly, it's extremely difficult for a homeowner to recoup money when buying a Jura and making little to no trips to a coffee house.  Your costs in water filters is what kills you (if you don't make many milk drinks, just buy a big 1000ml bottle of milk cleaner to last you 6 months).  The Clearyl filters cost about $25 each and I go through 1/mo with my filtered "Hardness 2" Florida water ($300/yr).   The filters do not last long, I believe, due to the sheer amount of time the machine rinses itself - and I haven't found a true pattern.  When it turns on - a rinse; when it turns off - possibly a rinse; randomly while it's on - sometimes a rinse; the milk spout - maybe a rinse, or maybe not.  Most of my water usage is maintenance - not making product!  I also make mostly Americanos (7 oz water usage) and Hot Water for Green Tea (8 oz), so filter my usage would be higher than someone only making espressos and macchiatos.  Here is my break-even math:
+
+  Sadly, it's extremely difficult for a homeowner to recoup money when buying a Jura and making little to no trips to a coffee house.  Your costs in water filters is what kills you (if you don't make many milk drinks, just buy a big 1000ml bottle of milk cleaner to last you 6 months).  The Clearyl filters cost about $25 each and I go through 1/mo with my filtered "Hardness 2" Florida water ($300/yr).   The filters do not last long, I believe, due to the sheer amount of time the machine rinses itself - and I haven't found a true pattern.  When it turns on - a rinse; when it turns off - possibly a rinse; randomly while it's on - sometimes a rinse; the milk spout - maybe a rinse, or maybe not.  Most of my water usage is maintenance - not making product!  I also make mostly Americanos (7 oz water usage) and Hot Water for Green Tea (8 oz), so filter my usage would be higher than someone only making espressos and macchiatos.  Here is my break-even math:
 
 - Refurb Jura S8 + accessories: $2700
 - Trips to Coffee House: $600/yr (that included snacks and food)
@@ -74,8 +75,8 @@ Sadly, it's extremely difficult for a homeowner to recoup money when buying a Ju
 - (Coffee House Trips) - (Filters) = $300 savings per year.
 - $2700 / $300 = 9 years for my break-even.
 
-BUT - I need to keep buying filters, right?  So I'm back to spending $300 a year.
-I break even for 1 day (I think).
+BUT - I need to keep buying filters, right?  So after my break-even period I'm still spending $300 a year on filters.
+I break even for exactly 1 day.
 My action plan: stick it out for 9 years, hope filter technology is better by then, sell the S8, buy a new Jura and start over.
 
 ###### What about J.O.E?
