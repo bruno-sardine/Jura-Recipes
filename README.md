@@ -269,8 +269,8 @@ Chocolate Syrup (2 oz)
 ## **Cappuccino Lite**
 
 ```
-28g / 1 oz flavored syrup
-Coffee Strength: 1
+3/4 oz flavored syrup
+Coffee Strength: .5
 Steamed Milk: 15 Seconds
 Volume: 1.5 oz
 ```
