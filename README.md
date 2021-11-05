@@ -20,7 +20,7 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
     * [**Cortadito (2oz)**](#cortadito-2oz)
     * [**Flat White**](#flat-white)
     * [**Cappuccino (5.x oz)**](#cappuccino-5x-oz)
-    * [**Foxtail Café Latte (10oz)**](#foxtail-café-latte-10oz)
+    * [**Fauxtail Café Latte (10oz)**](#fauxtail-café-latte-10oz)
     * [**Café con Leche (6 oz)**](#café-con-leche-6-oz) 
     * [**Café con Leche (Venezuelan version)**](#café-con-leche-venezuelan-version) 
     * [**Espresso Macchiato (1 oz)**](#espresso-macchiato-1-oz)
@@ -185,7 +185,7 @@ Steamed Milk: 14 Seconds
 Volume: 3oz
 ```
 
-## **Foxtail Café Latte (10oz)**
+## **Fauxtail Café Latte (10oz)**
 ###### Notes:
 The 60 seconds milk is SPECIFIC to the milk I use.  This is to my taste, and a close approximation to Foxtail's Oatmilk Latte (except they use their beans, and they use Oatly!  I use Planet Oat for the lower calories).  In general, the correct latte ratio is 1:3; but coffee shops seems to use a 1:4 or 1:5 ratio.  This recipe is about 1:4 (2oz to 8oz). If I were to make a "1:3 normal latte", I would change to a 1:3 ratio (which would be 1.5oz espresso to around 22ish seconds milk).
 
