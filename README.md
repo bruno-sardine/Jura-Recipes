@@ -21,6 +21,9 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
     * [**Flat White**](#flat-white)
     * [**Cappuccino (5.x oz)**](#cappuccino-5x-oz)
     * [**Fauxtail Café Latte (10oz)**](#fauxtail-café-latte-10oz)
+    * [**Fauxtail Cappuccino**](#fauxtail-cappuccino)
+    * [**Fauxtail Gingerbread Latte**](#fauxtail-gingerbread-latte)
+    * [**Fauxtail Eggnog Latte**](#fauxtail-eggnog-latte)
     * [**Café con Leche (6 oz)**](#café-con-leche-6-oz) 
     * [**Café con Leche (Venezuelan version)**](#café-con-leche-venezuelan-version) 
     * [**Espresso Macchiato (1 oz)**](#espresso-macchiato-1-oz)
@@ -53,10 +56,11 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristretto, Coffee, Latte Macchiato, Flat White
 
 ###### Interesting Info
-- Extraction times for espresso.  I know there are a lot of other variables in my numbers, but I think you mostly want to shoot for a 9-12 second extraction time.  You would need to play around with it depending on your beans, grind setting, and Coffee Strength setting.  As mentioned before, I'm using the 2nd finest grind setting and 1.5oz volume.  Tastes good to me!
+- Extraction times for espresso.  I know there are a lot of other variables in my numbers, but I think you mostly want to shoot for a 9-12 second extraction time.  You would need to play around with it depending on your beans, grind setting, and Coffee Strength setting.  
 
 | Coffee Strength | Grind Setting | 1oz Extraction Time | 1.5oz Extraction Time |
 |--|--|--|--|
+| 5 | 1 (finest) | n/a | 11.88 secs |
 | 4 | 1 (finest) | 9.2 secs. | n/a |
 | 4 | 2 | 8.11 | 12.07 secs |
 | 4 | 3 | 7.6 secs. | n/a |
@@ -194,6 +198,36 @@ The 60 seconds milk is SPECIFIC to the milk I use.  This is to my taste, and a c
 Coffee Strength:  5 (max)
 Steamed Oat Milk: 60 Seconds (Planet Oat Unsweetened Original)
 Volume: 2 oz
+```
+
+## **Fauxtail Cappuccino**
+###### Notes: 
+Use 1oz Espresso (x2)
+
+```
+Coffee Strength:  5 (max)
+Volume: 1 oz
+Brew another shot
+Steamed Milk: 15 seconds
+```
+
+## **Fauxtail Gingerbread Latte**
+
+```
+1/2 oz Gingerbread syrup
+1/4 oz Vanilla syrup
+Espresso
+Volume 1.5 oz
+Steamed milk: 60 secs.
+```
+
+## **Fauxtail Eggnog Latte**
+
+```
+Espresso 
+Volume 1.5 oz 
+Steamed milk: 30 secs
+4 oz Eggnog
 ```
 
 ## **Café con Leche (6 oz)**
