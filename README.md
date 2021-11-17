@@ -4,6 +4,7 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 <img src="https://i.imgur.com/lEINlNn.png" width="200"/>
 
   * [Notes](#notes)
+  * [Coffee Tasting Notes](#coffee-tasting-notes)
   * [My Display](#my-display)
   * [Interesting Info](#interesting-info)
   * [Operating Costs](#operating-costs)
@@ -46,6 +47,13 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 - I used to use 1oz volumes for espresso and 2oz for doppio.  I believe those are correct/traditional volumes. However, 1 oz espresso was just too bitter from the Jura.  My advice is to stick with the Jura default of 1.5 oz (especially if you're coming from a Nespresso which is the same).
 - Milk times are with whole milk with the exception of the Café Latte which I use oat milk
 
+###### Coffee Tasting Notes
+Since no beans are created equally, I'm going to start keeping track of what I like and don't like.
+
+|Coffee| Coffee Strength | Volume |
+|-|-|-|
+| Lavazza Super Crema Whole Bean Coffee Blend | 4 | 1.5 |
+
 ###### My Display
 
 |My Control Panel| | | |
@@ -56,15 +64,7 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristretto, Coffee, Latte Macchiato, Flat White
 
 ###### Interesting Info
-- Extraction times for espresso.  I know there are a lot of other variables in my numbers, but I think you mostly want to shoot for a 9-12 second extraction time.  You would need to play around with it depending on your beans, grind setting, and Coffee Strength setting.  
-
-| Coffee Strength | Grind Setting | 1oz Extraction Time | 1.5oz Extraction Time |
-|--|--|--|--|
-| 5 | 1 (finest) | n/a | 11.88 secs |
-| 4 | 1 (finest) | 9.2 secs. | n/a |
-| 4 | 2 | 8.11 | 12.07 secs |
-| 4 | 3 | 7.6 secs. | n/a |
-
+- Extraction times for espresso.  You mostly want to shoot for a 9-12 second extraction time.  Play around with it depending on your beans, grind setting, and Coffee Strength setting.  
 - 25g of water used to clean the coffee spout
 - "Hot Water" and "Hot Water for Tea": 175 degrees.  I'm not sure why there are 2 product settings for this.
 
