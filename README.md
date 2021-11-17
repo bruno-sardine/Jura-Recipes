@@ -64,6 +64,7 @@ Since no beans are created equally, I'm going to start keeping track of what I l
 Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristretto, Coffee, Latte Macchiato, Flat White
 
 ###### Interesting Info
+- What's the difference between (product) and (2 x product)?  Let's talk about espresso.  With my settings, an espresso at 4 coffee strength at 1.5 ounce volume will produce a wet 23g discarded coffee puck.  If you make a "2 x Espresso" at 1.5 volume, you get a 3 ounce pour (makes sense), but the machine still produces a wet 23g discarded coffee puck.  You end up with an over extracted bitter 3oz drink.  But the real idea is that you are supposed to use a cup under each spout to make 2 espressos at once.  Doing so cuts said bitterness in half; it's more tollerable.  But my advice - just make 2 single espressos.  When you find a bean, coffee strength, and volume ratio you like - stick with it.  Make your gests their own shot.  Forget the "2 x" stuff.  I SUPPOSE you could lessen the coffee stregnth on the 2x setting, but really - save a spot on the main product grid for something fun, like a Cortado.
 - Extraction times for espresso.  You mostly want to shoot for a 9-12 second extraction time.  Play around with it depending on your beans, grind setting, and Coffee Strength setting.  
 - 25g of water used to clean the coffee spout
 - "Hot Water" and "Hot Water for Tea": 175 degrees.  I'm not sure why there are 2 product settings for this.
