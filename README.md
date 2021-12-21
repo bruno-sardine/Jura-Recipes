@@ -40,7 +40,6 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 
 ###### Notes:
 - New users may be confused on the milk dispensing system (using time vs volume).  Take note of the Cortado and Cortadito recipes.  They require “equal amounts of milk” to the coffee.  I brewed these drinks with a scale under the cup and stopped the milk function when the amount of needed grams of milk was reached.  In general, for "Milk Foam", it's 6 secs (1oz), 11 sec (2oz), and 16 sec (3 oz).  "BUT ThAt'Z nOt HoW IT WorKZzzzzzz!!!!!  YOu'RE DoINg it WroNG ANd giVInG bAd AdviCE!!!". Listen - I think you're supposed to brew your shot, manually add "Milk Foam", and just hit the CANCEL button when the amount of milk looks about right or tastes right.  If you paid attention, you realize "I cancelled the milk after about 5 seconds". Now you can SAVE your recipe with "5 seconds of milk".  It's really the same thing I did, except I used a scale.
-- My current grind setting: 1st position (finest)
 - Coffee Strength (aroma profile).  There are 5 bean icons, each with half steps, allowing for 10 levels of aroma profile (which just alters how much coffee is ground).  Referring to the image, if I say "Coffee Strength: .5", I mean there is a single half-icon of beans filled in.  Similarly, "Coffee Strength 3" would mean 3 full-bean icons are filled in.  Coffee Strength 5 would be the max setting.  I only bring this up because J.O.E uses a different strength setting, and I think some of the other Jura machines do too.
 <img src="https://i.imgur.com/H9DmIWh.png" width="200"/>
                                                      
@@ -50,10 +49,10 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 ###### Coffee Tasting Notes
 Since no beans are created equally, I'm going to start keeping track of what I like for espresso.
 
-|Coffee| Coffee Strength | Volume |
-|-|-|-|
-| Lavazza Super Crema Whole Bean Coffee Blend | 4 | 1.5 |
-| El Salvador El Mural Med. Roast from Atlas Coffee Club | 3.5 | 2 oz |
+|Coffee| Coffee Strength | Volume | Grind |
+|-|-|-|-|
+| Lavazza Super Crema Whole Bean Coffee Blend | 4 | 1.5 | 1 |
+| El Salvador El Mural Med. Roast from Atlas Coffee Club | 3.5 | 2 oz | 3 |
 
 ###### My Display
 
