@@ -58,8 +58,8 @@ Since no beans are created equally, I'm going to start keeping track of what I l
 
 |My Control Panel| | | |
 |--|--|--|--|
-| Espresso | Café Marron | My Latte | Small Hot Water |
-| Cappuccino Lite | Cortado | Macchiato | Water for Green Tea |
+| Espresso | Coffee | My Latte | Small Hot Water (4.5 oz) |
+| Cappuccino Lite | Cortado | Cappuccino (default) | Water for Green Tea |
 
 Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristretto, Coffee, Latte Macchiato, Flat White
 
