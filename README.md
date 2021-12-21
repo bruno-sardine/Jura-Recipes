@@ -48,11 +48,12 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 - Milk times are with whole milk with the exception of the Café Latte which I use oat milk
 
 ###### Coffee Tasting Notes
-Since no beans are created equally, I'm going to start keeping track of what I like and don't like.
+Since no beans are created equally, I'm going to start keeping track of what I like for espresso.
 
 |Coffee| Coffee Strength | Volume |
 |-|-|-|
 | Lavazza Super Crema Whole Bean Coffee Blend | 4 | 1.5 |
+| El Salvador El Mural Med. Roast from Atlas Coffee Club | 3.5 | 2 oz |
 
 ###### My Display
 
