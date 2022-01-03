@@ -49,10 +49,10 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 ###### Coffee Tasting Notes
 If you can dial in the espresso and coffee (drink) for the beans, the rest of the drinks fall into place
 
-|Coffee| Coffee Strength | Volume | Grind | Coffee (drink) Settings
-|-|-|-|-|-|
-| Lavazza Super Crema Whole Bean Coffee Blend | 4 | 1.5 | 3 | Strength 2.5 - Vol 4.5 - Temp Low |
-| El Salvador El Mural Med. Roast from Atlas Coffee Club | 3.5 | 2 oz | 3 | Strength 3.5 - Vol 5 - Temp High |
+|Coffee| Coffee Strength | Volume | Grind | Temp | Coffee (drink) Settings
+|-|-|-|-|-|-|
+| Lavazza Super Crema Whole Bean Coffee Blend | 3 | 1.5 | 3 | Normal | Strength 2.5 - Vol 4.5 - Temp Low |
+| El Salvador El Mural Med. Roast from Atlas Coffee Club | 3.5 | 2 oz | 3 | High | Strength 3.5 - Vol 5 - Temp High |
 
 ###### My Display
 
@@ -95,8 +95,7 @@ My action plan: stick it out for 9 years, hope filter technology is better by th
 ## **Espresso (1.5 oz):**
 
 ```
-Coffee Strength: 5
-Volume: 1.5 oz
+See: Coffee Tasting Notes
 ```
 
 ## **Doppio (3 oz):**
@@ -112,7 +111,7 @@ Volume: 3 oz
 
 ```
 Espresso
-6 oz hot water
+4.5oz hot water
 ```
 
 ## **Latte Macchiato (7.5 oz)**
