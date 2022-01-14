@@ -51,7 +51,7 @@ If you can dial in the espresso and coffee (drink) for the beans, the rest of th
 
 |Coffee| Coffee Strength | Volume | Grind | Temp | Coffee (drink) Settings
 |-|-|-|-|-|-|
-| Lavazza Super Crema Whole Bean Coffee Blend | 3 | 1.5 | 3 | Normal | Strength 2.5 - Vol 4.5 - Temp Low |
+| Lavazza Super Crema Whole Bean Coffee Blend | 3 | 1.5 | 3 | Normal | Grind 5 - Strength 2.5 - Vol 4.5 - Temp Low |
 | El Salvador El Mural Med. Roast from Atlas Coffee Club | 3.5 | 2 oz | 3 | High | Strength 3.5 - Vol 5 - Temp High |
 
 ###### My Display
