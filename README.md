@@ -5,9 +5,7 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 
   * [Notes](#notes)
   * [Coffee Tasting Notes](#coffee-tasting-notes)
-  * [My Display](#my-display)
   * [Interesting Info](#interesting-info)
-  * [Operating Costs](#operating-costs)
   * [What about J.O.E?](#what-about-joe)
   * [Iced Latte Recipes](https://github.com/bruno-sardine/iced-latte-recipes/blob/main/README.md)
   - Recipes
@@ -49,40 +47,16 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
 ###### Coffee Tasting Notes
 If you can dial in the espresso and coffee (drink) for the beans, the rest of the drinks fall into place
 
+Most people shoot for a 1:15, 1:16, or 1:17 ratio for coffee.  
+
 |Coffee| Coffee Strength | Volume | Grind | Temp | Coffee (drink) Settings
 |-|-|-|-|-|-|
 | Lavazza Super Crema Whole Bean Coffee Blend | 3 | 1.5 | 3 | Normal | Grind 5 - Strength 2.5 - Vol 4.5 - Temp Low |
 | El Salvador El Mural Med. Roast from Atlas Coffee Club | 3.5 | 2 oz | 3 | High | Strength 3.5 - Vol 5 - Temp High |
 
-###### My Display
-
-|My Control Panel| | | |
-|--|--|--|--|
-| Espresso | Coffee | My Latte | Small Hot Water (4.5 oz) |
-| Cappuccino Lite | Cortado | Cappuccino (default) | Water for Green Tea |
-
-Product Carousel: Milk, Milk Foam, 2x Ristretto, 2x Espresso, 2x Coffee, Ristretto, Coffee, Latte Macchiato, Flat White
-
 ###### Interesting Info
-- What's the difference between (product) and (2 x product)?  Let's talk about espresso.  With my settings, an espresso at 4 coffee strength at 1.5 ounce volume will produce a wet 23g discarded coffee puck.  If you make a "2 x Espresso" at 1.5 volume, you get a 3 ounce pour (makes sense), but the machine still produces a wet 23g discarded coffee puck.  You end up with an over extracted bitter 3oz drink.  But the real idea is that you are supposed to use a cup under each spout to make 2 espressos at once.  Doing so cuts said bitterness in half; it's more tollerable.  But my advice - just make 2 single espressos.  When you find a bean, coffee strength, and volume ratio you like - stick with it.  Make your gests their own shot.  Forget the "2 x" stuff.  I SUPPOSE you could lessen the coffee stregnth on the 2x setting, but really - save a spot on the main product grid for something fun, like a Cortado.
 - Extraction times for espresso.  You mostly want to shoot for a 9-12 second extraction time.  Play around with it depending on your beans, grind setting, and Coffee Strength setting.  
-- 25g of water used to clean the coffee spout
 - "Hot Water" and "Hot Water for Tea": 175 degrees.  I'm not sure why there are 2 product settings for this.
-
-###### Operating Costs
-It's All in the Filters
-
-  Sadly, it's extremely difficult for a homeowner to recoup money when buying a Jura and making little to no trips to a coffee house.  Your costs in water filters is what kills you (if you don't make many milk drinks, just buy a big 1000ml bottle of milk cleaner to last you 6 months).  The Clearyl filters cost about $25 each and I go through 1/mo with my filtered "Hardness 2" Florida water ($300/yr).   The filters do not last long, I believe, due to the sheer amount of time the machine rinses itself - and I haven't found a true pattern.  When it turns on - a rinse; when it turns off - possibly a rinse; randomly while it's on - sometimes a rinse; the milk spout - maybe a rinse, or maybe not.  Most of my water usage is maintenance - not making product!  I also make mostly Americanos (7 oz water usage) and Hot Water for Green Tea (8 oz), so filter my usage would be higher than someone only making espressos and macchiatos.  Here is my break-even math:
-
-- Refurb Jura S8 + accessories: $2700
-- Trips to Coffee House: $600/yr (that included snacks and food)
-- Clearyl Filters: $300/yr
-- (Coffee House Trips) - (Filters) = $300 savings per year.
-- $2700 / $300 = 9 years for my break-even.
-
-BUT - I need to keep buying filters, right?  So after my break-even period I'm still spending $300 a year on filters.
-I break even for exactly 1 day.
-My action plan: stick it out for 9 years, hope filter technology is better by then, sell the S8, buy a new Jura and start over.
 
 ###### What about J.O.E?
 - There are 16 custom spots you can add recipes to in addition to the 12 normal presets (ristretto, flat white, hot water for green tea, etc)
