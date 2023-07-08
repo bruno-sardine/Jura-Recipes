@@ -81,7 +81,7 @@ Coffee Strength: 5 (max)
 Volume: 3 oz
 ```
 
-## **Americano (7 oz)**
+## **Americano (6 oz)**
 
 ```
 Espresso
