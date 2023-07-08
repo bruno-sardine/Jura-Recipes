@@ -11,7 +11,7 @@ My personal collection of coffee recipes modified for a Jura espresso machine - 
   - Recipes
     * [**Espresso (1.5 oz):**](#espresso-15-oz)
     * [**Doppio (3 oz):**](#doppio-3-oz)
-    * [**Americano (7 oz)**](#americano-7-oz)
+    * [**Americano (6 oz)**](#americano-6-oz)
     * [**Latte Macchiato (7.5 oz)**](#latte-macchiato-75-oz)
     * [**Café Cubano (1oz)**](#café-cubano-1oz)
     * [**Cortado (4oz)**](#cortado-4oz)
